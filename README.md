@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareerPilot AI
 
 CareerPilot AI is a student-friendly career-learning planner. It analyzes skill gaps, builds a roadmap, schedules study tasks, links to learning materials and video suggestions, tracks progress, and adapts the plan after feedback.
@@ -119,3 +120,7 @@ The tests use local logic and do not require a Gemini API key or network access.
 - `resources.py`: curated websites and video search suggestions.
 - `database.py`: SQLite persistence and backward-compatible task-resource migration.
 - `tests/`: offline unit tests.
+=======
+# Careerpilot-AI
+CareerPilot AI is an AI-powered career guidance platform that analyzes students' skills, identifies skill gaps, recommends suitable career paths, and generates personalized learning roadmaps. Built with Python, Streamlit and LangGraph, adaptive task scheduling, progress monitoring, and curated learning resources and video suggestions.
+>>>>>>> 6c74ec382b5446fe275727946006eebf4d29f567
